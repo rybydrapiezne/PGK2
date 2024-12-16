@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Szymon\\wkspaces\\PGK2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|C:\\Users\\Szymon\\wkspaces\\PGK2\\assets\\healthrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|solutionrelative:assets\\healthrobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|c:\\users\\szymon\\wkspaces\\pgk2\\assets\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|solutionrelative:assets\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|C:\\Users\\Szymon\\wkspaces\\PGK2\\assets\\controllercamerac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|solutionrelative:assets\\controllercamerac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|C:\\Users\\Szymon\\wkspaces\\PGK2\\assets\\blow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|solutionrelative:assets\\blow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|C:\\Users\\Szymon\\wkspaces\\PGK2\\assets\\pickupshield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1EDF19-ABAD-F3BF-BA3B-36BA9678AE98}|Assembly-CSharp.csproj|solutionrelative:assets\\pickupshield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControllerCameraC.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\ControllerCameraC.cs",
+              "RelativeDocumentMoniker": "Assets\\ControllerCameraC.cs",
+              "ToolTip": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\ControllerCameraC.cs",
+              "RelativeToolTip": "Assets\\ControllerCameraC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:02:52.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blow.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\Blow.cs",
+              "RelativeDocumentMoniker": "Assets\\Blow.cs",
+              "ToolTip": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\Blow.cs",
+              "RelativeToolTip": "Assets\\Blow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:29:58.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthRobot.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\HealthRobot.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthRobot.cs",
+              "ToolTip": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\HealthRobot.cs",
+              "RelativeToolTip": "Assets\\HealthRobot.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:12:04.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Move.cs",
+              "ToolTip": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\Move.cs",
+              "RelativeToolTip": "Assets\\Move.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDsAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:11:08.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PickupShield.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\PickupShield.cs",
+              "RelativeDocumentMoniker": "Assets\\PickupShield.cs",
+              "ToolTip": "C:\\Users\\Szymon\\wkspaces\\PGK2\\Assets\\PickupShield.cs",
+              "RelativeToolTip": "Assets\\PickupShield.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:10:26.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
